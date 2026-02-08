@@ -223,6 +223,10 @@ Papers on computational morphology and related areas, organized by venue and yea
 
 - [Enriching Word Vectors with Subword Information](2017/publications_tacl17/fasttext_tacl17/README.md)
 
+# Cognition 2025
+
+- [Learn what is detectable, detect what is useful: acquisition of German plural as a classification problem](2025/publications_cognition25/germanplural_cognition25/README.md)
+
 # Linguistics Vanguard 2025
 
 - [Some Innate Characteristics of Neural Network Models of Morphological Inflection](2025/publications_lingvan25/innatechar_lingvan25/README.md)

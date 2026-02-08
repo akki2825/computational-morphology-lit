@@ -100,6 +100,7 @@ A curated collection of papers on computational morphology.
 | Journal | Years |
 |---------|-------|
 | TACL | [2019](conference-publications/README.md#tacl-2019), [2018](conference-publications/README.md#tacl-2018), [2017](conference-publications/README.md#tacl-2017) |
+| Cognition | [2025](conference-publications/README.md#cognition-2025) |
 | Linguistics Vanguard | [2025](conference-publications/README.md#linguistics-vanguard-2025) |
 | CL | [2016](conference-publications/README.md#computational-linguistics-2016), [2011](conference-publications/README.md#computational-linguistics-2011), [2001](conference-publications/README.md#computational-linguistics-2001) |
 | Annual Review of Linguistics | [2017](conference-publications/README.md#annual-review-of-linguistics-2017) |
