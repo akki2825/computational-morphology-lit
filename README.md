@@ -32,14 +32,14 @@ A curated collection of papers on computational morphology.
 ## Surveys and Books
 
 - [Unsupervised Learning of the Morphology of a Natural Language](conference-publications/2001/publications_cl01/goldsmith_cl01/README.md) (Goldsmith, CL 2001)
-- Finite-State Morphology (Beesley & Karttunen, CSLI Publications, 2003)
-- Computational Approaches to Morphology and Syntax (Roark & Sproat, Oxford University Press, 2007)
+- [Finite-State Morphology](conference-publications/2003/publications_csli03/fsmorphology_csli03/README.md) (Beesley & Karttunen, CSLI Publications, 2003)
+- [Computational Approaches to Morphology and Syntax](conference-publications/2007/publications_oup07/morphsyntax_oup07/README.md) (Roark & Sproat, Oxford University Press, 2007)
 - [Unsupervised Models for Morpheme Segmentation and Morphology Learning](conference-publications/2007/publications_tslp07/morfessor_tslp07/README.md) (Creutz & Lagus, ACM TSLP 2007)
 - [Unsupervised Learning of Morphology](conference-publications/2011/publications_cl11/unsupmorph_cl11/README.md) (Hammarström & Borin, CL 2011)
 - [A Comparative Study of Minimally Supervised Morphological Segmentation](conference-publications/2016/publications_cl16/minsupervseg_cl16/README.md) (Ruokolainen et al., CL 2016)
 - [Computational Learning of Morphology](conference-publications/2017/publications_arl17/complearn_arl17/README.md) (Goldsmith, Lee & Xanthos, Annual Review of Linguistics 2017)
 - [On the Complexity and Typology of Inflectional Morphological Systems](conference-publications/2019/publications_tacl19/complextypo_tacl19/README.md) (Cotterell et al., TACL 2019)
-- Finite-State Text Processing (Gorman & Sproat, Springer, 2021)
+- [Finite-State Text Processing](conference-publications/2021/publications_springer21/fstext_springer21/README.md) (Gorman & Sproat, Springer, 2021)
 
 ## Shared Tasks
 
