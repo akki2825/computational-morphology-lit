@@ -96,3 +96,7 @@ A curated collection of papers on computational morphology.
 | Linguistics Vanguard | [2025](conference-publications/README.md#linguistics-vanguard-2025) |
 | CL | [2001](conference-publications/README.md#computational-linguistics-2001) |
 | ACM TSLP | [2007](conference-publications/README.md#acm-transactions-on-speech-and-language-processing-2007) |
+
+---
+
+Inspired by [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature).
