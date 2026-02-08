@@ -61,6 +61,7 @@ A curated collection of papers on computational morphology.
 |------|-------------|
 | [Morfessor](https://github.com/aalto-speech/morfessor) | Unsupervised morphological segmentation |
 | [OpenFST](https://www.openfst.org/) | Finite-state transducer library |
+| XFST | Xerox finite-state tool for morphological analysis (commercial) |
 | [Foma](https://fomafst.github.io/) | Finite-state compiler and library for morphological analysis |
 | [HFST](https://hfst.github.io/) | Helsinki Finite-State Technology toolkit |
 | [SentencePiece](https://github.com/google/sentencepiece) | Unsupervised text tokenizer and detokenizer |
