@@ -227,9 +227,21 @@ Papers on computational morphology and related areas, organized by venue and yea
 
 - [Some Innate Characteristics of Neural Network Models of Morphological Inflection](2025/publications_lingvan25/innatechar_lingvan25/README.md)
 
+# Computational Linguistics 2016
+
+- [A Comparative Study of Minimally Supervised Morphological Segmentation](2016/publications_cl16/minsupervseg_cl16/README.md)
+
+# Computational Linguistics 2011
+
+- [Unsupervised Learning of Morphology](2011/publications_cl11/unsupmorph_cl11/README.md)
+
 # Computational Linguistics 2001
 
 - [Unsupervised Learning of the Morphology of a Natural Language](2001/publications_cl01/goldsmith_cl01/README.md)
+
+# Annual Review of Linguistics 2017
+
+- [Computational Learning of Morphology](2017/publications_arl17/complearn_arl17/README.md)
 
 # ACM Transactions on Speech and Language Processing 2007
 

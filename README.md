@@ -35,7 +35,11 @@ A curated collection of papers on computational morphology.
 - Finite-State Morphology (Beesley & Karttunen, CSLI Publications, 2003)
 - Computational Approaches to Morphology and Syntax (Roark & Sproat, Oxford University Press, 2007)
 - [Unsupervised Models for Morpheme Segmentation and Morphology Learning](conference-publications/2007/publications_tslp07/morfessor_tslp07/README.md) (Creutz & Lagus, ACM TSLP 2007)
+- [Unsupervised Learning of Morphology](conference-publications/2011/publications_cl11/unsupmorph_cl11/README.md) (Hammarström & Borin, CL 2011)
+- [A Comparative Study of Minimally Supervised Morphological Segmentation](conference-publications/2016/publications_cl16/minsupervseg_cl16/README.md) (Ruokolainen et al., CL 2016)
+- [Computational Learning of Morphology](conference-publications/2017/publications_arl17/complearn_arl17/README.md) (Goldsmith, Lee & Xanthos, Annual Review of Linguistics 2017)
 - [On the Complexity and Typology of Inflectional Morphological Systems](conference-publications/2019/publications_tacl19/complextypo_tacl19/README.md) (Cotterell et al., TACL 2019)
+- Finite-State Text Processing (Gorman & Sproat, Springer, 2021)
 
 ## Shared Tasks
 
@@ -94,7 +98,8 @@ A curated collection of papers on computational morphology.
 |---------|-------|
 | TACL | [2019](conference-publications/README.md#tacl-2019), [2018](conference-publications/README.md#tacl-2018), [2017](conference-publications/README.md#tacl-2017) |
 | Linguistics Vanguard | [2025](conference-publications/README.md#linguistics-vanguard-2025) |
-| CL | [2001](conference-publications/README.md#computational-linguistics-2001) |
+| CL | [2016](conference-publications/README.md#computational-linguistics-2016), [2011](conference-publications/README.md#computational-linguistics-2011), [2001](conference-publications/README.md#computational-linguistics-2001) |
+| Annual Review of Linguistics | [2017](conference-publications/README.md#annual-review-of-linguistics-2017) |
 | ACM TSLP | [2007](conference-publications/README.md#acm-transactions-on-speech-and-language-processing-2007) |
 
 ---
