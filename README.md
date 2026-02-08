@@ -67,6 +67,8 @@ A curated collection of papers on computational morphology.
 | [SentencePiece](https://github.com/google/sentencepiece) | Unsupervised text tokenizer and detokenizer |
 | [UniMorph](https://unimorph.github.io/) | Universal morphological feature schema and inflectional paradigms |
 | [Sigmorphon Data](https://github.com/sigmorphon) | Shared task data and baselines |
+| [Samsaadhanii](https://github.com/samsaadhanii/scl) | Sanskrit morphological analyzer, generator, sandhi splitter, and parser |
+| [Apertium / lttoolbox](https://github.com/apertium/lttoolbox) | Finite-state lexical processing and morphological analysis (used for Tamil, Oriya, etc.) |
 
 ## Conference Publications
 
